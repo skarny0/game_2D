@@ -4,7 +4,7 @@ let score = 0;
 const scoreDisplay = document.getElementById("score");
 
 // ------------------------------------------------------------------------------------------ //
-// Adding some comments and stuff
+// Adding some comments and stuff and more comments
 
 function updateVisibility() {
     const maxDistance = 3; // The radius of visibility around the player
