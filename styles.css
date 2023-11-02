@@ -20,7 +20,7 @@ body {
     height: 5vw;
     border: 1px solid #ccc;
     position: relative;
-    opacity: 0.2; /* Initially darken all cells */
+    opacity: 0; /* Initially darken all cells */
     transition: opacity 0.2s; /* Optional: For smooth transition of visibility changes */
 }
 
